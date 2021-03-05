@@ -19,6 +19,7 @@ The take aways of this project are:
 - [Usage](#usage)
 - [Credits](#credits)
 - [How to Contribute](#Contribute)
+- [Deployed application](#Deployed_application)
 
 ## Usage
 This is a marketing agency webpage. It has a Header with a navigation bar with 3 options, each option takes you directly to a specific part of the page. It has a main section with an image, a middle section with 3 articles, an aside section with 3 articules, and a footer.
@@ -35,4 +36,7 @@ Upgrade the code so it follows better accessibility standards. Make the  site op
  ![badmath](https://img.shields.io/coveralls/github/jekyll/jekyll?label=CSS)
 
  ![badmath](https://img.shields.io/coveralls/github/jekyll/jekyll?label=HTML)
+
+## Deployed_application
+ https://stamm2911.github.io/CODE_REFACTOR/
 
